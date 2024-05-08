@@ -1,0 +1,1 @@
+This is django and model migrations by Hardvard Edx 
